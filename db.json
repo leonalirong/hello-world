@@ -1,0 +1,38 @@
+{
+  "todos": [
+    {
+      "name": "吃饭",
+      "id": 1
+    },
+    {
+      "name": "睡觉",
+      "id": 2
+    },
+    {
+      "name": "大豆打偶",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "李四",
+      "author": "lisi",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "world"
+  }
+}
